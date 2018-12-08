@@ -142,7 +142,7 @@ input[type="radio"].visually-hidden {
 }
 
 .promo {
-    /*width: 1400px;*/
+    width: 1400px;
     min-height: 600px;
     margin: 0 auto;
     background-color: #cccccc;
@@ -183,7 +183,7 @@ input[type="radio"].visually-hidden {
 }
 
 .features {
-    /*width: 1400px;*/
+    width: 1400px;
     margin: 0 auto;
     margin-bottom: 30px;
 }
@@ -282,7 +282,7 @@ input[type="radio"].visually-hidden {
 }
 
 .services {
-    /*width: 1400px;*/
+    width: 1400px;
     background-color: #ee8012;
     margin: 0 auto;
     margin-bottom: 30px;
@@ -394,7 +394,7 @@ input[type="radio"].visually-hidden {
 
 
 .partners {
-    /*width: 1400px;*/
+    width: 1400px;
     margin: 0 auto;
     /*margin-bottom: 30px;*/
     background-image: url(../IMG/wood-texture_\(8\).jpg);
@@ -439,7 +439,7 @@ input[type="radio"].visually-hidden {
 
 
 .scheme {
-    /*width: 1400px;*/
+    width: 1400px;
     margin: 0 auto;
     background-color: #cccccc;
     padding: 30px 0;
@@ -500,7 +500,7 @@ input[type="radio"].visually-hidden {
 }
 
 .gallery {
-    /*width: 1400px;*/
+    width: 1400px;
     margin: 0 auto;
     background-color: #ffffff;
     padding: 30px 0;
