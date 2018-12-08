@@ -554,6 +554,7 @@ input[type="radio"].visually-hidden {
 
 footer {
     background-color: #000000;
+    background-position: top center;
     
 }
 
