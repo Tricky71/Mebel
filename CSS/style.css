@@ -51,7 +51,7 @@ input[type="radio"].visually-hidden {
 }
 
 .main-header {
-    width: 100%; 
+    width: 1400px; 
     margin: 0 auto;
     background-color: #ee8012;
     
@@ -151,6 +151,12 @@ input[type="radio"].visually-hidden {
     background-position: top center;
     background-repeat: no-repeat;
     margin-bottom: 30px;
+   
+}
+
+@keyframes promo-slide {
+    0% { transform: translateY(-1000px);}
+    100% {transform: translateY(0);}
 }
 
 .promo h2,
@@ -168,6 +174,8 @@ input[type="radio"].visually-hidden {
     font-size: 25px;
     line-height: 35px;
     padding: 30px 25px;
+    animation: promo-slide 1.5s ease;
+    animation-fill-mode: forwards;
 }
 
 .promo-info h2 {
