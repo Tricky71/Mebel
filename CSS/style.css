@@ -126,7 +126,7 @@ input[type="radio"].visually-hidden {
 } 
 
 .contacts-phone::before {
-    content: url(../img/telephone.svg);
+    content: url(../IMG/telephone.svg);
     position: absolute;
     top: 7px;
     left: -30px;
@@ -146,7 +146,7 @@ input[type="radio"].visually-hidden {
     min-height: 600px;
     margin: 0 auto;
     background-color: #cccccc;
-    background-image: url(../img/slm_banner_1_4.jpg);
+    background-image: url(../IMG/slm_banner_1_4.jpg);
     background-size: 1400px 600px;
     background-position: top center;
     background-repeat: no-repeat;
@@ -208,7 +208,7 @@ input[type="radio"].visually-hidden {
 }*/
 
 .accuracy {
-    background-image: url(../img/target.svg),
+    background-image: url(../IMG/target.svg),
      linear-gradient(60deg, #ffffff 15%, #cccccc 15%);
     background-repeat: no-repeat;
     background-position: 100px 35px, 0 0;
@@ -216,21 +216,21 @@ input[type="radio"].visually-hidden {
 }
 
 .prices {
-    background-image: url(../img/piggy-bank.svg),
+    background-image: url(../IMG/piggy-bank.svg),
      linear-gradient(60deg, #ffffff 15%, #cccccc 15%);
     background-repeat: no-repeat;
     background-position: 100px 35px, 0 0;
 }
 
 .quality {
-    background-image: url(../img/hand.svg),
+    background-image: url(../IMG/hand.svg),
      linear-gradient(60deg, #ffffff 15%, #cccccc 15%);
     background-repeat: no-repeat;
     background-position: 100px 35px, 0 0;
 }
 
 .time {
-    background-image: url(../img/time.svg),
+    background-image: url(../IMG/time.svg),
      linear-gradient(60deg, #ffffff 15%, #cccccc 15%);
     background-repeat: no-repeat;
     background-position: 100px 35px, 0 0;
@@ -324,15 +324,15 @@ input[type="radio"].visually-hidden {
 }
 
 .kitchen {
-    background-image: url(../img/kitchen-small.jpg);
+    background-image: url(../IMG/kitchen-small.jpg);
 }
 
 .coupe {
-    background-image: url(../img/shkaf_kupe_2.jpg);
+    background-image: url(../IMG/shkaf_kupe_2.jpg);
 }
 
 .furniture {
-    background-image: url(../img/corpus.jpg);
+    background-image: url(../IMG/corpus.jpg);
 }
 
 .services-list li:last-child(n+3) {
@@ -397,7 +397,7 @@ input[type="radio"].visually-hidden {
     /*width: 1400px;*/
     margin: 0 auto;
     /*margin-bottom: 30px;*/
-    background-image: url(../img/wood-texture_\(8\).jpg);
+    background-image: url(../IMG/wood-texture_\(8\).jpg);
     background-position: 0 0;
     background-repeat: repeat;
     padding-bottom: 60px;
