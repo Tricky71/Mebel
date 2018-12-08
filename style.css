@@ -146,7 +146,7 @@ input[type="radio"].visually-hidden {
     min-height: 600px;
     margin: 0 auto;
     background-color: #cccccc;
-    background-image: url(img/slm_banner_1_4.jpg);
+    background-image: url(/img/slm_banner_1_4.jpg);
     background-size: 1400px 600px;
     background-position: top center;
     background-repeat: no-repeat;
