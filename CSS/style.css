@@ -553,6 +553,8 @@ input[type="radio"].visually-hidden {
 }
 
 footer {
+    width: 1400px;
+    margin: 0 auto;
     background-color: #000000;
     background-position: top center;
     
